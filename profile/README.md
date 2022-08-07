@@ -1,6 +1,6 @@
 <h1 align="center">Heimdall The API Gateway</h1>
 <p align="center">
-  <img src="img/heimdall.jpeg">
+  <img src="https://i.pinimg.com/originals/e8/b0/87/e8b087691488b9a8c7db654c27c97cb3.jpg">
 </p>
 <h2>Heimdall API Gateway is <b>open source</b> cloud-native, platform-agnostic, scalable, ultra-high performance API Gateway that helps you effortlessly adopt microservices and secure communications.
 By providing functionality for proxying, routing, health checking, authentication, monitoring, circuit breaking (and more),
