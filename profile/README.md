@@ -19,5 +19,6 @@ All copyrights of the name and image of heimdall, and phrases that are related t
 ## Inspiration
 - Josh Long ([@starbuxman](https://github.com/joshlong))
 - Thomas Vitale ([@ThomasVitale](https://github.com/ThomasVitale))
+- [Spring Cloud Projects](https://spring.io/projects/spring-cloud)
 
 
