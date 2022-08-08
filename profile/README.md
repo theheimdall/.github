@@ -16,4 +16,8 @@ With his all-seeing eyes, Heimdall protects Asgard and all of its citizens.</h4>
 ## Name Credits <img src="https://user-images.githubusercontent.com/24237865/141415477-d1af2b48-2498-4ff0-8fdf-95dff092e317.png" align="right" width="22%"/>
 All copyrights of the name and image of heimdall, and phrases that are related to heimdall used in this open-source project belong to [Marvel Studios](https://www.marvel.com/)
 
+## Inspiration
+- Josh Long ([@starbuxman](https://github.com/joshlong))
+- Thomas Vitale ([@ThomasVitale](https://github.com/ThomasVitale))
+
 
